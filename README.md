@@ -21,6 +21,7 @@ Dove
 Trident
 Sour Patch Kids
 Meijer
+
 2. Top 5 Brands by Sales (Users with 6+ Month Account Age)
 The top 5 brands by sales among users with accounts aged 6+ months are:
 
@@ -29,14 +30,17 @@ Dove
 Trident
 Coors Light
 Tresemmé
+
 3. Health & Wellness Category Sales by Generation
 The analysis shows the percentage of sales in the "Health & Wellness" category by generation:
 
 Baby Boomers: 0.09%
 Generation X: 0.05%
 Generation Z / Millennial: 0.02%
+
 4. Power Users
 Fetch's "Power Users" are those who have scanned the highest number of receipts and made the highest total spend. The top power users were identified and ranked based on the number of transactions and the total spent.
+
 
 5. Leading Brand in Dips & Salsa Category
 The leading brand in the Dips & Salsa category is Tostitos with 36 total sales.
